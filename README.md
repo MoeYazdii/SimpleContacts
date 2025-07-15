@@ -19,5 +19,5 @@ Schema:
 <img width="614" height="259" alt="image" src="https://github.com/user-attachments/assets/96880c74-54d4-47b3-83fb-5ca2ecd958df" />
 
 
-Make sure you turn on "Identity Specification = on " so ContactID generate for each row
+Make sure you turn on "Identity Column = ContactID " so ContactID generate for each row
 
